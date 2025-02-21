@@ -1,0 +1,22 @@
+{
+  "Students": [
+    {
+      "sid": 1,
+      "sname": "joe",
+      "grade": "A",
+      "Phone": [
+        1111,
+        2222,
+        3333,
+        4444
+      ],
+      "id": "ec98"
+    },
+    {
+      "sid": 2,
+      "sname": "ross",
+      "grade": "A",
+      "id": "f4e3"
+    }
+  ]
+}
